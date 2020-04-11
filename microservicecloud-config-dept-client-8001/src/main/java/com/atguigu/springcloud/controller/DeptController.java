@@ -40,7 +40,7 @@ public class DeptController
 		return service.list();
 	}
 
-	
+
 //	@Autowired
 //	private DiscoveryClient client;
 	@RequestMapping(value = "/dept/discovery", method = RequestMethod.GET)

@@ -7,7 +7,7 @@ import com.netflix.loadbalancer.AbstractLoadBalancerRule;
 import com.netflix.loadbalancer.ILoadBalancer;
 import com.netflix.loadbalancer.Server;
 
-public class RandomRule_ZY extends AbstractLoadBalancerRule
+public class RandomRule_ZXB extends AbstractLoadBalancerRule
 {
 
 	// total = 0 // 当total==5以后，我们指针才能往下走，
